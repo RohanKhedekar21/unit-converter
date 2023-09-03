@@ -1,0 +1,53 @@
+{
+    "Length": {
+        "meter": {
+            "baseUnit": "meter",
+            "symbol": "m",
+            "ofBaseConversion": 1,
+            "toBaseConversion": 1 
+        },
+        "kilometer": {
+            "baseUnit": "meter",
+            "symbol": "km",
+            "ofBaseConversion": 0.001,
+            "toBaseConversion": 1000
+        },
+        "centimeter": {
+            "baseUnit": "meter",
+            "symbol": "cm",
+            "ofBaseConversion": 100,
+            "toBaseConversion": 0.01
+        },
+        "milimeter": {
+            "baseUnit": "meter",
+            "symbol": "mm",
+            "ofBaseConversion": 1000,
+            "toBaseConversion": 0.001
+        },
+        "mile": {
+            "baseUnit": "meter",
+            "symbol": "mi",
+            "ofBaseConversion": 0.000621371,
+            "toBaseConversion": 1609.34
+        },
+        "yard": {
+            "baseUnit": "meter",
+            "symbol": "yd",
+            "ofBaseConversion": 1.09361,
+            "toBaseConversion": 0.9144
+        },
+        "Foot": {
+            "baseUnit": "meter",
+            "symbol": "ft",
+            "ofBaseConversion": 3.28084,
+            "toBaseConversion": 0.3048
+        },
+        "inch": {
+            "baseUnit": "meter",
+            "symbol": "in",
+            "ofBaseConversion": 39.3701,
+            "toBaseConversion": 0.0254
+        }
+        
+    }
+}
